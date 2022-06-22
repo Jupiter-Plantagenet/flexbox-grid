@@ -1,0 +1,52 @@
+.box{
+  display:flex;
+  flex-direction:row;
+  }
+
+.sedan{
+  background-color:#e28628;
+  padding:20px;
+  }
+
+.suv{
+  background-color:#016972;
+  padding:20px;
+    }
+
+.viv{
+  background-color:#075959;
+  padding:20px;
+  }
+
+.button{
+ border-radius : 10px;
+transition-duration:0.4s;
+padding:5px;
+}
+
+.button:hover{
+background-color:#e28628;
+color:#f3f3f3;
+}
+
+.button1{
+ border-radius : 10px;
+transition-duration:0.4s;
+padding:5px;
+}
+
+.button1:hover{
+background-color:#016972;
+color:#f3f3f3;
+}
+
+.button2{
+border-radius : 10px;
+transition-duration:0.4s;
+padding:5px;
+}
+
+.button2:hover{
+background-color:#075959;
+color:#f3f3f3;
+}
